@@ -10,3 +10,7 @@ Summary of Changes:
 - Combined individual classes into a single class to simplify common CSS styling.
 - Added some <Br> to match flow of mockup text wrapping.  
 
+
+Site URL: https://sessions21.github.io/Challenge1/
+
+
