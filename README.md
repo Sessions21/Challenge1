@@ -11,6 +11,7 @@ Summary of Changes:
 - Added some <Br> to match flow of mockup text wrapping.  
 
 
-Site URL: https://sessions21.github.io/Challenge1/
+Site URL:  https://sessions21.github.io/Horiseon-Challenge1-SN/
 
+![Screenshot-of-website](assets/images/Horiseon-webpage.png)
 
